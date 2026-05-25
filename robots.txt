@@ -1,1 +1,9 @@
+User-agent: *
+Allow: /
 
+# Block admin or private folders (future use)
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://mrbiomedtechservices.github.io/sitemap.xml
